@@ -4,7 +4,7 @@ The purpose of this project is developing an application produces a solution for
 logic method. The application has two input parameters including taste quality and serving quality. After the user
 entered data, the result will be calculated and the graph belongs to solution will be plotted in program window.
 
-If either the taste quality and the serving quality are voted under 3.0 points, the output will be zero. 
+If either the taste quality or the serving quality are voted under 3.0 points, the output will be zero. 
 
 
 #The output graph is plotted using Oxyplot library. 
